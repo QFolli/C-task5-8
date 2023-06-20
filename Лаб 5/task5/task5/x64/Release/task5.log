@@ -1,0 +1,3 @@
+﻿  task5_5.cpp
+C:\PGU\Voronov\task5\task5\task5_5.cpp(15,9): error C2156: директива pragma должна находиться вне функции
+C:\PGU\Voronov\task5\task5\task5_5.cpp(15,17): warning C4081: требуется "newline"; обнаружен "("
